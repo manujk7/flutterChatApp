@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311988392982",
+    "project_id": "chatworld-b0322",
+    "storage_bucket": "chatworld-b0322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311988392982:android:2ec1d025d80fa81bfed137",
+        "android_client_info": {
+          "package_name": "com.manuj.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311988392982-6c3g82leikpqig4v23307ka7a3n06ean.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9RQFgcwjP7wV3gjpeN-MYoIvSCIKu2Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311988392982-6c3g82leikpqig4v23307ka7a3n06ean.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
